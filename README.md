@@ -1,6 +1,5 @@
 <img src="github-metrics.svg" alt="Metrics" width="100%">
-[![An image of @prakadesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prakadesh)](https://holopin.io/@prakadesh)
-
+[![ @prakadesh's Holopin badges]](https://holopin.io/api/user/board?user=prakadesh(https://holopin.io/@prakadesh)
 <!--
 **prakadesh/prakadesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
