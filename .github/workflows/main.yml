@@ -28,6 +28,7 @@ jobs:
           user: prakadesh
           template: classic
           base: header, activity, community, repositories, metadata
+          config_padding: 0
           base_hireable: yes
           config_octicon: yes
           config_timezone: Asia/Calcutta
@@ -55,5 +56,23 @@ jobs:
           plugin_repositories_order: featured, pinned, starred, random
           plugin_topics: yes
           plugin_topics_limit: 15
-          plugin_topics_mode: starred
+          plugin_topics_mode: starred,mastered
           plugin_topics_sort: stars
+
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          plugin_leetcode: yes
+          plugin_leetcode_limit_recent: 2
+          plugin_leetcode_limit_skills: 10
+          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_user: .prakadesh.login
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+         
