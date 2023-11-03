@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    26.8k added, 7.87k removed
+                                    21.1k added, 1.77k removed
                                 </div>
                             </section>
                             <section>
@@ -1381,8 +1381,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.192676249144421 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">55</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.305270362765229 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">56</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2922</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -1399,8 +1399,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.631818181818182 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">17</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.8454545454545457 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">18</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1540</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -1427,8 +1427,8 @@
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x28</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x14</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x13</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x13</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x12</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x11</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x9</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Linked List <span class="count">x7</span></div>
@@ -1449,8 +1449,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Longest Substring Without Repeating Characters</div>
-                            <div class="date">2 Nov 2023</div>
+                            <div class="title">Divide Two Integers</div>
+                            <div class="date">3 Nov 2023</div>
                         </div>
                     </div>
                     <div class="field">
@@ -1458,7 +1458,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Remove Nth Node From End of List</div>
+                            <div class="title">Longest Substring Without Repeating Characters</div>
                             <div class="date">2 Nov 2023</div>
                         </div>
                     </div>
@@ -1955,7 +1955,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.03m out of 74.5m repositories</span>
+                                    <span class="gh">ranked 5.03m out of 77.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2055,7 +2055,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2023, 23:48:10 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Nov 2023, 00:41:18 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
