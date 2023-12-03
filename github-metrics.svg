@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    35.4k added, 8.23k removed
+                                    33.3k added, 8k removed
                                 </div>
                             </section>
                             <section>
@@ -1576,8 +1576,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="9.466824644549764 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">85</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="9.578199052132701 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">86</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2954</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -1585,8 +1585,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.009345794392523 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">41</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.44859813084112 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">42</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/749</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -1620,7 +1620,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x44</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x45</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x23</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x19</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x15</span></div>
@@ -1644,8 +1644,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Subarray Sum Equals K</div>
-                            <div class="date">2 Dec 2023</div>
+                            <div class="title">Kids With the Greatest Number of Candies</div>
+                            <div class="date">3 Dec 2023</div>
                         </div>
                     </div>
                     <div class="field">
@@ -1653,8 +1653,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Maximum Average Subarray I</div>
-                            <div class="date">1 Dec 2023</div>
+                            <div class="title">Subarray Sum Equals K</div>
+                            <div class="date">2 Dec 2023</div>
                         </div>
                     </div>
                 </section>
@@ -2150,7 +2150,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.06m out of 48.4m repositories</span>
+                                    <span class="gh">ranked 5m out of 58.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2250,7 +2250,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2023, 22:41:39 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2023, 23:46:27 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
