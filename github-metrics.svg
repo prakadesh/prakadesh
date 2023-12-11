@@ -1577,8 +1577,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="10.332776478449716 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">94</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="10.442699632475776 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">95</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2993</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -1586,8 +1586,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="20.134114583333332 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">47</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="20.5625 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">48</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/768</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -1621,7 +1621,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x46</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x47</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x27</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x19</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x18</span></div>
@@ -1645,8 +1645,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Max Consecutive Ones III</div>
-                            <div class="date">10 Dec 2023</div>
+                            <div class="title">Element Appearing More Than 25% In Sorted Array</div>
+                            <div class="date">11 Dec 2023</div>
                         </div>
                     </div>
                     <div class="field">
@@ -1654,8 +1654,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Find Common Elements Between Two Arrays</div>
-                            <div class="date">9 Dec 2023</div>
+                            <div class="title">Max Consecutive Ones III</div>
+                            <div class="date">10 Dec 2023</div>
                         </div>
                     </div>
                 </section>
@@ -2151,7 +2151,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.05m out of 45.3m repositories</span>
+                                    <span class="gh">ranked 5.04m out of 50.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2251,7 +2251,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Dec 2023, 16:53:00 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Dec 2023, 17:58:17 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
