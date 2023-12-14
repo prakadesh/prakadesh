@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Cyber Homelab**
 
-- 🌱 I’m currently  **Diving deeper into the realm of cybersecurity and sharpening my skills in Data Structures and Algorithms. Every day is a new opportunity to grow and contribute to a more secure and efficient digital landscape. Join me on this multifaceted learning journey!**
+- 🌱 I’m currently Learning **Delving deeper into the world of cybersecurity and honing my skills in Data Structures and Algorithms, alongside exploring the intricacies of Flutter development. Every day presents a new opportunity to grow and contribute to a more secure and efficient digital landscape.**
 
 - 👯 I’m looking to collaborate with **If you're as passionate about Flutter as I am, or if you find the world of Information Security intriguing, let's join forces! Together, we can craft innovative solutions and explore the uncharted territories of both mobile app development and cybersecurity. Let the collaboration begin! 🚀**
 
