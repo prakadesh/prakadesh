@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **prakadesh2003@gmail.com**
 
-- 📄 Know about my experiences [coming soon..](coming soon..)
-
 - ⚡ Fun fact **In the world of coding, bugs are the only creatures I allow in my programs. They make debugging a bit more interesting, don't you think?**
 
 <h3 align="left">Connect with me:</h3>
