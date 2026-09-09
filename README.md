@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://prakadesh.com/">🌐 Website</a> •
-  <a href="https://medium.com/@pragapadma123">✍️ Blogs</a> •
+  <a href="https://prakadesh.com/blog">✍️ Technical Blogs</a> •
   <a href="https://www.linkedin.com/in/prakadesh/">LinkedIn</a> •
   <a href="https://github.com/prakadesh">GitHub</a> •
   <a href="https://leetcode.com/pragapadma123/">LeetCode</a>
@@ -24,19 +24,19 @@ I'm a cybersecurity professional working in an **MSSP environment**, focused on 
 - 🤖 Exploring **security automation, incident response and AI-assisted security operations**
 - 🎯 Interested in building practical solutions that reduce manual SOC effort and improve detection and response
 
-## 🌐 Website & Writing
+## 🌐 Website & Technical Writing
 
 ### 🖥️ Personal Website
 
-Explore my **cybersecurity portfolio, projects, technical work and professional profile** on my personal website:
+Explore my **cybersecurity portfolio, projects, technical work and professional profile**:
 
 👉 **[prakadesh.com](https://prakadesh.com/)**
 
-### ✍️ Technical Blogs & Security Writing
+### ✍️ Technical Blogs
 
-I also write and curate content around **cybersecurity, bug bounty, security research, application security and technology**.
+I write technical content on **cybersecurity, security research, bug bounty, application security, tools, and hands-on security projects**.
 
-👉 **[Read my blogs on Medium](https://medium.com/@pragapadma123)**
+👉 **[Read my technical blogs](https://prakadesh.com/blog)**
 
 ## 🛡️ Security Focus
 
@@ -118,8 +118,8 @@ Reporting           → SIEM Pipelines, Power BI
   <a href="https://prakadesh.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://medium.com/@pragapadma123" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  <a href="https://prakadesh.com/blog" target="_blank">
+    <img src="https://img.shields.io/badge/Technical_Blogs-111827?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Technical Blogs" />
   </a>
   <a href="https://www.linkedin.com/in/prakadesh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
